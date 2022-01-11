@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Delivery Hero-Always delivering an amazing experience</title>
+	<style media="screen">
+		img {
+			width:150px;
+			position: inherit;
+			padding-right: 900px;
+			display: inline;
+		}
+		h6 {
+			display: inline;
+			word-wrap: initial;
+			white-space: nowrap;
+		}
+	</style>
+</head>
+
+<body>
+	<center>
+  <h6><img src="delivery hero Emblem.png" alt="Image is a red rocket with a starhead inner content"</h6>
+	<h6 align=center>About |	Blog |	Newsroom |	Susutainablity |	Diversity & Inclusion |	Careers↗ |	Investor relations |	Contact</h6>
+	</center>
+</body>
+
+</html>
